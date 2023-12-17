@@ -11,9 +11,10 @@ Este proyecto es una demostración de cómo utilizar diferentes elementos en un 
 Para instalar este proyecto, simplemente clona el repositorio:
 
 ```
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/Sergio10326/claseASIR
 ```
 
+Gran proyecto el del enlace por cierto :)
 
 ## Lista de Tareas
 
@@ -32,3 +33,25 @@ git clone https://github.com/tu-usuario/tu-proyecto.git
 5. [Diagrama](#diagrama)
 6. [Contribuir](#contribuir)
 7. [Licencia](#licencia)
+
+## Diagrama 
+
+graph TD
+  A[Inicio] -->|Paso 1| B(Instalar Dependencias)
+  B -->|Paso 2| C(Configurar Aplicación)
+  C -->|Paso 3| D(Ejecutar Aplicación)
+  D -->|Paso 4| E[Fin]
+
+
+
+## Contribuir
+
+Si quieres contribuir a este proyecto y mejorarlo, aquí hay algunas sugerencias:
+
+1. Realiza un fork del repositorio.
+2. Crea una nueva rama para tus cambios (`git checkout -b feature/mejora`).
+3. Realiza tus modificaciones y haz commit de ellas (`git commit -m 'Añadir nueva funcionalidad'`).
+4. Haz push de tus cambios a la rama (`git push origin feature/mejora`).
+5. Abre una solicitud de extracción (Pull Request).
+
+Para la realización de este .md, se han recogido ideas tanto de la guía como de otras páginas de internet
